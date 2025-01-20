@@ -11,43 +11,21 @@
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
-.pen{
+.item{
 	border: 1px solid;
 	height: 65px;
 	width: 65px;
 }
-.item1 {
+.pen1 {
 	background-color: green;
 }
-.item2 {
+.pen2 {
 	background-color: red;
 }
-.item3 {
+.pen3 {
 	background-color: blue;
 }
 
-.item{
-	display: flex;
-	align-items: center;
-	/* flex-wrap: nowrap; */
-	justify-content:center;
-	gap: 5px;
-}
-.list{
-	border: 1px solid;
-	width: 65px;
-	height: 65px;
-}
-.list1,.list2,.list3,.list4,.list5{
-	background-color: green
-}
-.list6{
-	background-color: red;
-}
-
-.list7{
-	background-color: blue;
-}
 
 
 
